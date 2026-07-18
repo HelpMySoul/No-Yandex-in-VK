@@ -1,4 +1,4 @@
-# VK Invite Promo Blocker
+# Скрыватель Яндекс иконки в ВК
 
 Расширение для Microsoft Edge / Google Chrome, которое удаляет и блокирует повторное появление элемента `#l_invite_promo` на сайтах [vk.com](https://vk.com/) и [vk.ru](https://vk.ru/).
 
