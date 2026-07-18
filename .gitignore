@@ -1,0 +1,4 @@
+.cursor/
+*.zip
+_check.ps1
+_*.ps1
